@@ -2,4 +2,6 @@ button {
   widht: 100px;
   height: 100px;
   text-aligne: center;
+  display: block;
+  margin: auto;
   }
